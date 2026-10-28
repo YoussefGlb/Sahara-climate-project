@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+rasterio
+xarray
+netCDF4
+xgboost
+scikit-learn
+tqdm
+torch  # for the RTX 3090 install the CUDA build: pip install torch --index-url https://download.pytorch.org/whl/cu124
