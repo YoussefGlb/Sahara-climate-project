@@ -1,5 +1,7 @@
-data/
 predictions_wsahara_ML/
 predictions_wsahara_DL/
 __pycache__/
 *.pyc
+
+data/_cache/
+data/_tmp/
